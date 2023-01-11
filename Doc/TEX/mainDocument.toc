@@ -1,0 +1,26 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\nameref {sec:keywords}}{3}{section*.2}%
+\contentsline {section}{Abstract}{4}{section*.3}%
+\contentsline {section}{Summary}{5}{section*.4}%
+\contentsline {section}{\nameref {sec:intro}}{6}{section*.5}%
+\contentsline {section}{\numberline {1}Circle made from control points}{7}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Creating curves with points in input}{7}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Creating arcs of circle}{8}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}building a road with no straight lines}{9}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Road constructors}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Road constructor (first approach) : circles of turns in input}{10}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Tangents as straight sections of roads}{10}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Arcs of circle as curve sections of roads}{11}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}turning in both direction : inner-outer tangents}{11}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}road constructor (second approach) : angles and lengths as inputs }{14}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}from the starting point to the first turn}{15}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}from the first turn to the next one, result}{16}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Retro-engineering of roads}{17}{section.3}%
+\contentsline {subsection}{\numberline {3.1}sampling roads}{18}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}detection of straight lines : linear regression method}{19}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}detection of turns : clustering of curvatures}{22}{subsection.3.3}%
+\contentsline {section}{\nameref {sec:conclu}}{23}{section*.17}%
+\contentsline {section}{\nameref {sec:future}}{24}{section*.18}%
+\contentsline {section}{References}{25}{section*.19}%
+\contentsline {section}{Appendices}{25}{section*.20}%
+\contentsline {section}{\numberline {A}Bibliography}{25}{appendix.1.A}%
